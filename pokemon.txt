@@ -1,7 +1,5 @@
-charmander
-pikachu
-squirtle
-dragonite
-bulbassauro
-dragon ball
-naruto
+nao
+tem
+pokemon
+aqui
+cara
