@@ -1,7 +1,5 @@
-charmander
-pikachu
-squirtle
-dragonite
-bulbassauro
-dragon ball
-naruto
+charmander:Kortopi
+pikachu:Chrollo Lucilfer
+squirtle:Feitan Porter
+dragonite:Hisoka Morow
+bulbassauro:Shalnark
