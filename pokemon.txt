@@ -3,5 +3,9 @@ pikachu:Chrollo Lucilfer - Teste - MAIS UM TESTE
 squirtle:Feitan Porter
 dragonite:Hisoka Morow
 bulbassauro:Shalnark - Não presta, motivo fraco - João Victor fala que na verdade é um bom Pokemon
+pikachu:Chrollo Lucilfe
+squirtle:Feitan Porter
+dragonite:Hisoka Morow
+bulbassauro:Shalnark 
 
 Assinado por: Pedro Augusto 
