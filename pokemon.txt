@@ -1,7 +1,7 @@
 charmander:Kortopi
-pikachu:Chrollo Lucilfer - Teste
+pikachu:Chrollo Lucilfer - Teste - MAIS UM TESTE
 squirtle:Feitan Porter
 dragonite:Hisoka Morow
-bulbassauro:Shalnark - Não presta, motivo fraco
+bulbassauro:Shalnark - Não presta, motivo fraco - João Victor fala que na verdade é um bom Pokemon
 
 Assinado por: Pedro Augusto 
