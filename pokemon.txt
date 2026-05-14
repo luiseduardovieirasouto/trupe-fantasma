@@ -2,4 +2,4 @@ charmander
 pikachu
 squirtle
 greninja
-lucario
+bulbassauro
