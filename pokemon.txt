@@ -1,7 +1,7 @@
 charmander:Kortopi
-pikachu:Chrollo Lucilfer - Teste
+pikachu:Chrollo Lucilfe
 squirtle:Feitan Porter
 dragonite:Hisoka Morow
-bulbassauro:Shalnark - Não presta, motivo fraco
+bulbassauro:Shalnark 
 
 Assinado por: Pedro Augusto 
